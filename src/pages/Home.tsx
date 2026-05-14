@@ -107,7 +107,8 @@ const Home = () => {
       setIsSending(false);
     }
   };
-
+ void projects;
+ void loading;
   return (
     <>
       <NavBar />
